@@ -20,7 +20,7 @@ body {
     padding: 0;
 }
 .container__botao {
-    background-color: var(--botao-azul);
+    background-color: var(--botao-rosa);
     border-radius: 5px;
     padding: 1em;
     color: var(--branco-principal);
@@ -39,8 +39,8 @@ body {
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
-    --cor-de-fundo: #00030C;
+    --botao-rosa: #DB7093;
+    --cor-de-fundo: #C71585;
     --fonte-principal: 'Inter';
 }
 
